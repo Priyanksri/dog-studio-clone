@@ -2,11 +2,6 @@
  
 A pixel-perfect clone of the award-winning Dogstudio website featuring a fully animated 3D dog model, custom GLSL shaders, and scroll-based animations.
  
-## 🌐 Live Demo
- 
-- **Frontend:** (add your deployment link here)
-- **Original Site:** https://dogstudio.co
- 
 ---
  
 ## ✨ Features
@@ -77,12 +72,7 @@ npm install
 ```bash
 npm run dev
 ```
- 
-### 4. Open the app
-```
-http://localhost:5173
-```
- 
+
 ---
  
 ## 🎨 How It Works
